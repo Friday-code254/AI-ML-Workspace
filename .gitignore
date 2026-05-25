@@ -1,0 +1,4 @@
+# Virtual environments
+env/
+
+requirements.txt
