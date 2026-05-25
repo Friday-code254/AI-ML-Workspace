@@ -15,6 +15,7 @@ This repository documents my daily learning journey, practice notebooks, experim
 
 # Repository Structure
 
+```text
 AI-ML-WORKSPACE/
 │
 ├── datasets/
@@ -39,7 +40,7 @@ AI-ML-WORKSPACE/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
+```
 ---
 
 # Topics Covered
